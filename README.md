@@ -105,7 +105,6 @@ Licensed under an [Apache-2.0](https://github.com/apache/incubator-mxnet/blob/ma
 
 Reference Paper
 ---------------
-
 Tianqi Chen, Mu Li, Yutian Li, Min Lin, Naiyan Wang, Minjie Wang, Tianjun Xiao,
 Bing Xu, Chiyuan Zhang, and Zheng Zhang.
 [MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](https://github.com/dmlc/web-data/raw/master/mxnet/paper/mxnet-learningsys.pdf).
